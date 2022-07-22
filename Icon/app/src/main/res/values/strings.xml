@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Icon</string>
+    <string name="divide">÷</string>
+    <string name="mul">×</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="result">RESULT</string>
+</resources>

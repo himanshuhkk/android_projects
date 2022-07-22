@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">login_page</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="username">username</string>
+    <string name="password">Password</string>
+    <string name="verify">VERIFY</string>
+    <string name="go_to_activity_1">GO TO Activity 1</string>
+</resources>
